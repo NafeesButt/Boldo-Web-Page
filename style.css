@@ -1,0 +1,116 @@
+/* * {
+  margin-top: none;
+} */
+/* p {
+  margin-top: auto;
+} */
+.width {
+  width: 100%;
+  /* object-fit: contain; */
+}
+
+.padding-right {
+  padding-right: 4rem;
+}
+.color {
+  background-color: #0a2640;
+}
+/* .side-color {
+  position: relative;
+  border-radius: 50%;
+  border-top-right-radius: 0;
+  border-bottom-left-radius: 50%;
+  width: 20%;
+  height: 30%;
+  background-color: pink;
+} */
+/* .background {
+  background-image: url("Ellipse 9.png");
+  background-position: right;
+} */
+.a-color {
+  color: #0a2640;
+}
+.change {
+  color: #777777;
+}
+.bgColor {
+  background-color: #65e4a3;
+}
+.paddingRight {
+  padding-right: 1rem;
+}
+.margin-right {
+  margin-right: 1rem;
+}
+.margin {
+  margin-right: 9rem;
+}
+.marginRight {
+  margin-right: 5rem;
+}
+.margin-left {
+  margin-left: 1rem;
+}
+/* .img-size {
+  object-fit: contain;
+} */
+.objfit {
+  object-fit: contain;
+}
+/* .bsbb {
+  box-sizing: border-box;
+} */
+.round {
+  position: absolute;
+  top: -850px;
+  right: -500px;
+  width: 1000px;
+  height: 1000px;
+  background: #1c3d5b;
+  border-radius: 50%;
+  /* z-index: -1; */
+}
+.index {
+  z-index: 999;
+}
+/* .round {
+  position: absolute;
+  top: -1160px;
+  right: -500px;
+  overflow: hidden;
+} */
+.central-div {
+  max-width: fit-content;
+}
+.light-green {
+  background-color: #69e6a6 !important;
+}
+.size {
+  width: 53rem;
+  font-size: 3rem;
+}
+.font {
+  font-size: 20px;
+}
+.font1 {
+  font-size: 30px;
+}
+.max-width {
+  max-width: 34rem;
+}
+.max {
+  max-width: 30rem;
+}
+
+@media only screen and (min-width: 768px) {
+  .adjust-width {
+    width: 40%;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .adjust-width {
+    width: auto;
+  }
+}
